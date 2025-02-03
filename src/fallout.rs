@@ -18,4 +18,4 @@ pub mod headers;
 pub use headers::*;
 
 
-include!(concat!(env!("OUT_DIR"), "/fo3.rs"));
+include!(concat!(env!("OUT_DIR"), "/fallout.rs"));

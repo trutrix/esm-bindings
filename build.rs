@@ -19,5 +19,5 @@ fn generate_bindings(h: &str, rs: &str) {
 
 fn main() {
     generate_bindings("bindings/bsa.h", "bsa.rs");
-    generate_bindings("bindings/fo3.h", "fo3.rs");
+    generate_bindings("bindings/fallout.h", "fallout.rs");
 }

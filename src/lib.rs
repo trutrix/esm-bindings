@@ -5,4 +5,4 @@
 #![allow(non_snake_case)]
 
 pub mod bsa;
-pub mod fo3;
+pub mod fallout;
